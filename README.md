@@ -1369,6 +1369,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Expify](https://www.expify.ai)
   A comprehensive AI tools and discovery directory - [GitHub](https://github.com/kherona/expify.ai)
 
+- [AI Tools Radar](https://aitoolsradar.com)  
+  AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news and newsletter issues.
+
 
 
 ---
@@ -1388,4 +1391,3 @@ The list is not complete also with the speed of the AI industry, there is a lot 
 ---
 
 Created by [Mosn](https://forge.mosn.me?ref=github-ai)
-
