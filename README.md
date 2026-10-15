@@ -141,8 +141,14 @@ This is an atlas of AI tools that are available on the web. This directory conta
    NoteGPT - YouTube Video Summarizer, PDF Summary, PPT Summary, Image Summaries, and more. Create PPTs, Mindmaps, and Notes with NoteGPT AI. Improve your learning efficiency by 10x.
 
 - [TurboSeek](https://www.turboseek.io)  
+
+- [NoteRich](https://noterich.com)  
+   AI-powered note-taking with built-in RAG search. Import documents, ask questions in natural language, find anything across your notes. 41 languages. Free tier, PRO \$39.90/year.
+
    Search smarter and faster with our open source AI search engine.
 
+- [Remio](https://remio.ai/)  
+   Remio is a local-first AI memory and knowledge base desktop app that captures and searches files, webpages, recordings, emails, messages, images, and notes with local indexes and vectors, helping agents retrieve context faster while reducing token use.
 ---
 
 ### 🎧 Text to Speech
@@ -231,6 +237,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Ilus AI](https://ilus.ai/)  
    Get beautiful, stylistically consistent illustrations in minutes.
 
+- [Illustro](https://illustro.app/)  
+   AI illustration generator and editor with style-specific tools, SVG recoloring, photo-to-illustration, and animation.
+
 - [Omost](https://github.com/lllyasviel/Omost)  
    Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
 
@@ -286,6 +295,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Thumb Zone](https://www.thumbzone.ai)  
    Eliminate the survival bias in your design decisions by looking into user persona, qualitative data, and user interaction.
+
+- [Roblox GUI Maker](https://robloxguimaker.dev/)
+   Free AI-assisted Roblox Studio GUI planner for ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
 
 #### Viedo & Multi-Media
 
@@ -512,6 +524,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Vercel AI](https://github.com/vercel/ai)  
    Build AI-powered applications with React, Svelte, Vue, and Solid. 
+
+- [FerryAPI](https://www.ferryapi.io/)  
+   OpenAI-compatible AI API gateway for cost-sensitive production apps, with prepaid usage-based pricing and developer API key management.
 
 - [Builder.ai](https://www.builder.ai/)  
    Created a new category between low-code and custom software to provide flexible, bespoke apps at the speed and cost of an off-the-shelf product.
@@ -1114,6 +1129,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Langflow](https://www.langflow.org/)  
    Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
 
+- [XMACNA Funcionarios Digitais](https://xmacna.ai/)
+   AI/IA-powered Funcionarios Digitais for WhatsApp, phone, CRM updates, lead qualification, follow-up, and human handoff.
+
 ---
 
 ### ⚙️ AI Tools
@@ -1360,6 +1378,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ### 📋 Directories & Communities
 
+- [AI Tools Radar](https://aitoolsradar.com/)  
+   Multilingual AI tools directory and editorial platform for discovering and comparing AI products, with models, agent skills, prompts, industry news, and newsletters.
+
 - [THERE'S AN AI FOR THAT](https://theresanaiforthat.com/)  
    There is an ai for that list.
 
@@ -1368,10 +1389,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Expify](https://www.expify.ai)
   A comprehensive AI tools and discovery directory - [GitHub](https://github.com/kherona/expify.ai)
-
-- [AI Tools Radar](https://aitoolsradar.com)  
-  AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news and newsletter issues.
-
+  
+- [AsmiAI](https://asmiai.xyz)
+  Independent AI tools directory with 236 reviewed and ranked AI products, 1,638 side-by-side comparisons, and a free AI-powered tool advisor.
 
 
 ---
@@ -1391,3 +1411,4 @@ The list is not complete also with the speed of the AI industry, there is a lot 
 ---
 
 Created by [Mosn](https://forge.mosn.me?ref=github-ai)
+
